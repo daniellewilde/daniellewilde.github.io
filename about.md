@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I have red hair and blue eyes and glasses
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I live in Kolding in my 100th house
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wilde@sdu.dk](mailto:wilde@sdu.dk)

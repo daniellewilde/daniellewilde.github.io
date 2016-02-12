@@ -1,10 +1,15 @@
 ---
 layout: post
-title: #2 (will that show?)
+title: 2 (will that show?)
 ---
 
 ooooh changed!
 
+wkjhawæfnaeiurtcnkeiriboetwi
+awpeoirycbeirtuycnaper
+
+
+now…
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
